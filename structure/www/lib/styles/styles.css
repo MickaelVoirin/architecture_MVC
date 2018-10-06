@@ -1,0 +1,13 @@
+			
+			
+			/* Erreur - Confirm */
+			.rouge{color:red;font-weight:bold;}
+            .vert{color:green;font-weight:bold;}
+			
+			/* Menu Navigation*/
+			nav{height:30px;}
+			ul li{display:block;float:left;padding:5px 10px;}
+			
+			/* Elements */
+			section{clear:left;margin-top:20px;}
+			.commentaires{border:1px solid black; margin:10px 0}
